@@ -12,5 +12,7 @@ public class BinaryTest {
 
         // 2022-04-13 commit
         // 2022-04-13 CLI practice
+        // github remote repository change test
+        // Binary-test -> java-basic
     }
 }
